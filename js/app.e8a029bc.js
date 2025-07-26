@@ -625,7 +625,7 @@
       ),
       te = {
         class: "btn btn-big btn-big-secondary",
-        href: "https://memes.endangeredlabs.io/",
+        href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
         target: "_blank",
       },
       ie = { class: "text" },
