@@ -1,0 +1,20 @@
+<svg width="31" height="50" viewBox="0 0 31 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31 13H5.34251e-08V12H31V13Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 10H5.34251e-08V9H18V10Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31 10L20 10V9L31 9V10Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31 7L13 7V6L31 6V7Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 7L5.34251e-08 7L0 6L11 6V7Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 4L5.34251e-08 4L0 3L7 3V4Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 4L9 4V3L20 3V4Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31 4L22 4V3L31 3V4Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31 1L5.34251e-08 1L3.44678e-08 5.87675e-07L31 0V1Z" fill="#356666"/>
+<path d="M0 19H31V50H0V19Z" fill="#071010"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30 20H1V49H30V20ZM0 19V50H31V19H0Z" fill="#356666"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 45V49H5L5 45H1V44H5V40H1V39H5V35H1V34H5L5 30H1V29H5L5 25H1V24H5V20H6V24H10V20H11V24H15V20H16V24H20V20H21V24H25V20H26V24H30V25H26V29H30V30H26V34H30V35H26V39H30V40H26V44H30V45H26V49H25V45H21V49H20V45H16V49H15V45H11V49H10V45H6ZM6 44H10V40H6V44ZM6 39H10V35H6V39ZM6 34H10V30H6L6 34ZM6 29H10V25H6V29ZM11 25V29H15V25H11ZM16 25V29H20V25H16ZM21 25V29H25V25H21ZM25 30H21V34H25V30ZM25 35H21V39H25V35ZM25 40H21V44H25V40ZM20 44V40H16V44H20ZM15 44V40H11V44H15ZM11 39H15V35H11V39ZM11 34H15V30H11V34ZM16 30V34H20V30H16ZM20 35H16V39H20V35Z" fill="#356666"/>
+<rect x="6" y="25" width="4" height="4" fill="#39A0A0"/>
+<rect x="21" y="35" width="4" height="4" fill="#39A0A0"/>
+<rect x="16" y="40" width="4" height="4" fill="#39A0A0"/>
+<rect x="21" y="25" width="4" height="4" fill="#39A0A0"/>
+<rect x="1" y="35" width="4" height="4" fill="#39A0A0"/>
+<rect x="6" y="45" width="4" height="4" fill="#39A0A0"/>
+</svg>
