@@ -1297,7 +1297,7 @@
       zi = { class: "container" },
       Hi = {
         class: "btn-join",
-        href: "https://twitter.com/Ailu2100",
+        href: "https://x.com/meta_ai_eth",
         target: "_blank",
       },
       Vi = Object(s["i"])(
@@ -1320,7 +1320,7 @@
           Object(s["i"])(
             "a",
             {
-              href: "https://twitter.com/Ailu2100",
+              href: "https://x.com/meta_ai_eth",
               style: { color: "white" },
               target: "_blank",
             },
@@ -1499,10 +1499,10 @@
                 ]),
                 Object(s["i"])("ul", D, [
                   Object(s["i"])("li", U, [
-                    Object(s["l"])(r, { url: "https://twitter.com/Ailu2100" }),
+                    Object(s["l"])(r, { url: "https://x.com/meta_ai_eth" }),
                   ]),
                   Object(s["i"])("li", N, [
-                    Object(s["l"])(l, { url: "https://t.me/ailu2100" }),
+                    Object(s["l"])(l, { url: "https://t.me/metaai_project" }),
                   ]),
                   // Object(s["i"])("li", R, [
                   //   Object(s["l"])(d, { url: "https://discord.gg/AILU" }),
@@ -7789,7 +7789,7 @@
             Object(s["i"])(
               "a",
               {
-                href: "https://twitter.com/Ailu2100",
+                href: "https://x.com/meta_ai_eth",
                 style: { color: "white" },
                 target: "_blank",
               },
@@ -7897,11 +7897,11 @@
                     Object(s["i"])("ul", wd, [
                       Object(s["i"])("li", _d, [
                         Object(s["l"])(r, {
-                          url: "https://twitter.com/Ailu2100",
+                          url: "https://x.com/meta_ai_eth",
                         }),
                       ]),
                       Object(s["i"])("li", kd, [
-                        Object(s["l"])(l, { url: "https://t.me/ailu2100" }),
+                        Object(s["l"])(l, { url: "https://t.me/metaai_project" }),
                       ]),
                       // Object(s["i"])("li", Cd, [
                       //   Object(s["l"])(d, { url: "https://discord.gg/AILU" }),
@@ -11678,7 +11678,7 @@
             q5: {
               question: "Y a-t-il une liste de mint garantie ?",
               answer:
-                '<p>Suivez <a href="https://twitter.com/Ailu2100" target="_blank">{\'@\'}endangeredlabs</a> pour avoir les infos.</p>',
+                '<p>Suivez <a href="https://x.com/meta_ai_eth" target="_blank">{\'@\'}endangeredlabs</a> pour avoir les infos.</p>',
             },
             q6: {
               question:
@@ -11808,7 +11808,7 @@
             q5: {
               question: "Is there a guaranteed mint list?",
               answer:
-                '<p>Follow <a href="https://twitter.com/Ailu2100" target="_blank">{\'@\'}endangeredlabs</a> and find out.</p>',
+                '<p>Follow <a href="https://x.com/meta_ai_eth" target="_blank">{\'@\'}endangeredlabs</a> and find out.</p>',
             },
             q6: {
               question:
@@ -12128,7 +12128,7 @@
             q5: {
               question: "¿Hay una lista de acuñación garantizada?",
               answer:
-                '<p>Siga <a href="https://twitter.com/Ailu2100" target="_blank">{\'@\'}endangeredlabs</a> y encuéntrelo.</p>',
+                '<p>Siga <a href="https://x.com/meta_ai_eth" target="_blank">{\'@\'}endangeredlabs</a> y encuéntrelo.</p>',
             },
             q6: {
               question:
@@ -12258,7 +12258,7 @@
             q5: {
               question: "有保证的鑄造清单吗？",
               answer:
-                '<p>请关注<a href="https://twitter.com/Ailu2100" target="_blank">{\'@\'}endangeredlabs</a>，了解更多信息。</p>',
+                '<p>请关注<a href="https://x.com/meta_ai_eth" target="_blank">{\'@\'}endangeredlabs</a>，了解更多信息。</p>',
             },
             q6: {
               question: "AILU持有人有哪些知识产权？",
@@ -12386,7 +12386,7 @@
             q5: {
               question: "確実なミントリストはありますか？",
               answer:
-                '<p><a href="https://twitter.com/Ailu2100" target="_blank">{\'@\'}endangeredlabs</a>をフォローして確認してください。</p>',
+                '<p><a href="https://x.com/meta_ai_eth" target="_blank">{\'@\'}endangeredlabs</a>をフォローして確認してください。</p>',
             },
             q6: {
               question: "AILUの所有者はどの知的財産権を持っていますか？",
