@@ -625,7 +625,7 @@
       ),
       te = {
         class: "btn btn-big btn-big-secondary",
-        href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+        href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x5231160c8f068f7ae68f65bcb77fc824d0759ea0",
         target: "_blank",
       },
       ie = { class: "text" },
